@@ -1,0 +1,146 @@
+﻿@page
+@model Application_Security_Practical.Pages.LoginModel
+
+
+
+@{
+    ViewData["Title"] = "Login Page";
+}
+
+@using Microsoft.Extensions.Options
+@using ApplicationSecurityPractical.Models
+@inject IOptions<GoogleCaptchaConfig> GoogleCaptchaConfig
+
+
+@*<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/Login.css" />
+
+
+<section class="vh-100">
+    <div class="container-fluid h-custom">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-md-9 col-lg-6 col-xl-5">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
+                     class="img-fluid" alt="Sample image">
+            </div>
+            <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
+                <form>
+                    <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
+
+
+                        <a class="btn btn-primary" style="background-color: #3b5998;" href="#!" role="button">
+                            <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-square2-512.png" width="40" height="40">
+                        </a>
+                        <a class="btn btn-primary" style="background-color: #55acee;" href="#!" role="button">
+                            <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-twitter-square2-512.png" width="40" height="40">
+                        </a>
+
+                    </div>
+
+
+
+                    <div class="divider d-flex align-items-center my-4">
+                        <p class="text-center fw-bold mx-3 mb-0">Or</p>
+                    </div>
+
+                    <!-- Email input -->
+                    <div class="form-outline mb-4">
+                        <label class="form-label" asp-for="LModel.Email">Email Address</label>
+                        <input type="Text" asp-for="LModel.Email" class="form-control" />
+                        <span asp-validaton-for="LModel.Email" class="text-danger"></span>
+                    </div>
+
+                    <!-- Password input -->
+                    <div class="form-outline mb-3">
+                        <label class="form-label" asp-for="LModel.Password">Password</label>
+                        <input type="Text" asp-for="LModel.Password" class="form-control" />
+                        <span asp-validaton-for="LModel.Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="d-flex justify-content-between align-items-center">
+                        <!-- Checkbox -->
+                        <div class="form-check mb-0">
+                            <input type="checkbox" asp-for="LModel.RememberMe" class="form-check-input" />
+                            <label class="form-check-label" asp-for="LModel.RememberMe">Remember Me?</label>
+                        </div>
+                        <a href="#!" class="text-body">Forgot password?</a>
+                    </div>
+
+                    <div class="text-center text-lg-start mt-4 pt-2">
+                        <div class="mb-3">
+                            <button type="submit" class="btn btn-primary">Login</button>
+                        </div>
+                        <p class="small fw-bold mt-2 pt-1 mb-0">
+                            Don't have an account? <a href="/Users/Register"
+                                                      class="link-danger">Register</a>
+                        </p>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+*@
+
+<div class="container mt-5">
+
+    <div class="row justify-content-center align-items-center">
+
+        <div class="col-sm-12 col-md-12 col-lg-4">
+            <h1 class="mb-3">Login </h1>
+
+            @if (!ViewData.ModelState.IsValid)
+            {
+                <div class="alert alert-danger">
+                    @Html.ValidationSummary()
+                </div>
+            }
+
+            <form method="post">
+
+                <input type="hidden" id="LoginToken" asp-for="LModel.Token" />
+
+                <div class="mb-3">
+                    <label class="form-label" asp-for="LModel.Email">Email Address</label>
+                    <input type="Text" asp-for="LModel.Email" class="form-control" />
+                    <span asp-validaton-for="LModel.Email" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label" asp-for="LModel.Password">Password</label>
+                    <input type="Text" asp-for="LModel.Password" class="form-control" />
+                    <span asp-validaton-for="LModel.Password" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3 form-check">
+                    <input type="checkbox" asp-for="LModel.RememberMe" class="form-check-input" />
+                    <label class="form-check-label" asp-for="LModel.RememberMe">Remember Me?</label>
+                </div>
+
+                <div class="mb-3">
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </div>
+
+
+            </form>
+
+
+        </div>
+    </div>
+</div>
+<script src="https://www.google.com/recaptcha/api.js?render=@GoogleCaptchaConfig.Value.SiteKey"></script>
+@section scripts
+    {
+    <script>
+        $(function () {
+            grecaptcha.ready(function () {
+                grecaptcha.execute('@GoogleCaptchaConfig.Value.SiteKey', { action: 'submit' }).then(function (token) {
+                    // Add your logic to submit to your backend server here.
+                    document.getElementById("LoginToken").value = token;
+                });
+            });
+        });
+    </script>
+    }

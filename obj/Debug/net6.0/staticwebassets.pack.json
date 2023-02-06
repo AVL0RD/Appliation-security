@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Application_Security_Practical.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Application_Security_Practical.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\01b705e2-b978-4f46-a6a0-9d50442f6917.jpg",
+      "PackagePath": "staticwebassets\\uploads\\01b705e2-b978-4f46-a6a0-9d50442f6917.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\040b3465-55f0-4b72-a794-da92fdd0234a.png",
+      "PackagePath": "staticwebassets\\uploads\\040b3465-55f0-4b72-a794-da92fdd0234a.png"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\08d23a46-bb2b-48c0-b806-a8d253a58047.jpg",
+      "PackagePath": "staticwebassets\\uploads\\08d23a46-bb2b-48c0-b806-a8d253a58047.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\0c2aa095-8e5c-4824-a996-da352c68560d.jfif",
+      "PackagePath": "staticwebassets\\uploads\\0c2aa095-8e5c-4824-a996-da352c68560d.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\0dfcfd9a-d554-464d-9fbb-506b46591f8d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0dfcfd9a-d554-464d-9fbb-506b46591f8d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\2196bfb1-6e57-438e-b472-ddb33e5d21ed.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2196bfb1-6e57-438e-b472-ddb33e5d21ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\262c316e-1180-4e27-9f1c-7ecc21590632.jfif",
+      "PackagePath": "staticwebassets\\uploads\\262c316e-1180-4e27-9f1c-7ecc21590632.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\2b5a8439-5b4d-42b7-93a2-c79d4f7ee02d.jfif",
+      "PackagePath": "staticwebassets\\uploads\\2b5a8439-5b4d-42b7-93a2-c79d4f7ee02d.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\37105e03-c559-4c89-a212-22c31a2b5e27.jfif",
+      "PackagePath": "staticwebassets\\uploads\\37105e03-c559-4c89-a212-22c31a2b5e27.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\3d3f2688-79b8-41a7-a327-ab31bafe1d35.jfif",
+      "PackagePath": "staticwebassets\\uploads\\3d3f2688-79b8-41a7-a327-ab31bafe1d35.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\460496f8-e4c3-4156-a9c5-b4614981b622.png",
+      "PackagePath": "staticwebassets\\uploads\\460496f8-e4c3-4156-a9c5-b4614981b622.png"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\5cd649a2-ec1e-4d53-8e23-0ab813d85a64.jfif",
+      "PackagePath": "staticwebassets\\uploads\\5cd649a2-ec1e-4d53-8e23-0ab813d85a64.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\5dd8ca80-3674-4982-b676-8b514924e63e.jfif",
+      "PackagePath": "staticwebassets\\uploads\\5dd8ca80-3674-4982-b676-8b514924e63e.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\7a2c19ff-4398-4245-a1dc-81c80c859b6e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7a2c19ff-4398-4245-a1dc-81c80c859b6e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\99ad2efe-3ce8-4a91-9eb7-0cee4be9276a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\99ad2efe-3ce8-4a91-9eb7-0cee4be9276a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\a14bca3f-cf38-40c4-b245-b248bf3a12d4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a14bca3f-cf38-40c4-b245-b248bf3a12d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\a19d66e9-6539-47fa-a34a-adfe8d30b1f8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a19d66e9-6539-47fa-a34a-adfe8d30b1f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\c72bbe4d-c6d1-48d0-a04f-c4c468a66048.jfif",
+      "PackagePath": "staticwebassets\\uploads\\c72bbe4d-c6d1-48d0-a04f-c4c468a66048.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\c742fa20-1755-4be0-bfd9-292b950a7725.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c742fa20-1755-4be0-bfd9-292b950a7725.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\c9f5a395-3c2c-4682-a698-659e270b49a1.png",
+      "PackagePath": "staticwebassets\\uploads\\c9f5a395-3c2c-4682-a698-659e270b49a1.png"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\d82bdc35-3267-41f0-8480-89ced1d13813.png",
+      "PackagePath": "staticwebassets\\uploads\\d82bdc35-3267-41f0-8480-89ced1d13813.png"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\dc9ddece-b96a-45f9-b179-fd3c9eff4adc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dc9ddece-b96a-45f9-b179-fd3c9eff4adc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\de6fecf1-458c-4dec-a618-f82fac887d9b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\de6fecf1-458c-4dec-a618-f82fac887d9b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\dedfa2d3-3527-4848-ad26-7678933a12a2.jfif",
+      "PackagePath": "staticwebassets\\uploads\\dedfa2d3-3527-4848-ad26-7678933a12a2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\dff01121-93c6-4332-9f52-89822f9e6a6d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dff01121-93c6-4332-9f52-89822f9e6a6d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aarav\\source\\repos\\Application_Security_Practical\\wwwroot\\uploads\\f3bae960-ab5e-4aff-b662-b0de96ea43d6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f3bae960-ab5e-4aff-b662-b0de96ea43d6.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Application_Security_Practical.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Application_Security_Practical.props",
+      "PackagePath": "build\\Application_Security_Practical.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Application_Security_Practical.props",
+      "PackagePath": "buildMultiTargeting\\Application_Security_Practical.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Application_Security_Practical.props",
+      "PackagePath": "buildTransitive\\Application_Security_Practical.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
